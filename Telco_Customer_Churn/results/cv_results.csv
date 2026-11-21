@@ -1,5 +1,0 @@
-Model,CV_ROC_AUC,Best_Params
-XGBoost,0.8482,"{""subsample"": 0.9, ""reg_lambda"": 2.0, ""n_estimators"": 100, ""max_depth"": 4, ""learning_rate"": 0.05, ""colsample_bytree"": 0.7}"
-RandomForest,0.8468,"{""n_estimators"": 200, ""min_samples_split"": 2, ""min_samples_leaf"": 2, ""max_features"": ""sqrt"", ""max_depth"": 8}"
-LogisticRegression,0.8456,"{""solver"": ""lbfgs"", ""C"": 10.0}"
-MLP_NeuralNet,0.8454,"{""learning_rate_init"": 0.001, ""hidden_layer_sizes"": [32, 16], ""alpha"": 0.1, ""activation"": ""tanh""}"
